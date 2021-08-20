@@ -1,0 +1,15 @@
+Im A FLOGGER[O
+
+ll : Mirar carpetas y archivos de la capeta actual 
+cd: Localizar carpeta 
+ls: Mirar carpetas de forma mas detallada 
+vim: editor de texto de la consola 
+Cntr + C : wq , salir de la operacion actual
+Touch +( Nombre de archivo: Crear document txt
+:i
+:w guardar
+git init: Crear un repositorio
+git status: Mirar el estado actual
+git diff: Registra el usuario que realizo el ultimo cambio
+
+luxen646
