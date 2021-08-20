@@ -11,5 +11,8 @@ Touch +( Nombre de archivo: Crear document txt
 git init: Crear un repositorio
 git status: Mirar el estado actual
 git diff: Registra el usuario que realizo el ultimo cambio
-
+git add . : Actualiza todos los archivos
+git add -A: Actualiza archivo actual
+git commit: Envias todos los cambios que estan en el staging que todavia no se han guardado oficialmente a la rama. con este 
+comano se envian oficialmente los cambios a la rama. 
 luxen646
