@@ -16,3 +16,4 @@ git add -A: Actualiza archivo actual
 git commit: Envias todos los cambios que estan en el staging que todavia no se han guardado oficialmente a la rama. con este 
 comano se envian oficialmente los cambios a la rama. 
 luxen646
+llave ssh: es una keygen unica para cada usuario 
